@@ -40,4 +40,4 @@ Feel free to fork this repository and contribute. Pull requests are welcome!
 
 
 💬 Contact
-For any inquiries or feedback, please contact us at bikkimanikanta15@gmail.com.
+For any inquiries or feedback, please contact at bikkimanikanta15@gmail.com.
